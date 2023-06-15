@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 
 ### And That's all for now! See you later.....
 -->
+- 🔭 I’m currently a full time B.Tech IT student.
+- 🌱 I’m currently learning about web technology.
+- 🤯 I know the stuffs like: c, c++, java, dbms.
+- 👶 Also, I know python but not so well.
+- 🤔 I’m looking for help with project ideas.
+- 📫 How to reach me:    email: jpjayaprakash6604@gmail.com
+                       LinkedIn: https://www.linkedin.com/in/jayaprakash-elango-281b9a212/
+
+### And That's all for now! See you later.....
