@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### And That's all for now! See you later.....
 -->
+![Linkedin Banner v3](https://github.com/JAYAPRAKASH0001/JAYAPRAKASH0001/assets/129868577/4e475437-e2c3-4ab4-a7e6-55880a932f4d)
+
 - 🔭 I’m currently a full time B.Tech IT student.
 - 🌱 I’m currently learning about web technology.
 - 🤯 I know the stuffs like: c, c++, java, dbms.
